@@ -2,8 +2,8 @@
 <p align="center">
 I'm a {backend, frontend} developer.
 I am currently a student of programming, I am interested in learning more and improving my knowledge in the area.
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=cansleeping&label=Profile%20views&color=0e75b6&style=flat" alt="cansleeping" /> </p>
 <br><br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cansleeping&label=Profile%20views&color=0e75b6&style=flat" alt="cansleeping" /> </p>
 
 <br>
     <img src="https://lanyard.cnrad.dev/api/1133816602828222555" />
